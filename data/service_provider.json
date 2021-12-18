@@ -1,0 +1,17 @@
+{
+        "service_provider_id":"number",
+        "first_name":"string",
+        "last_name":"string",
+        "job_position":"string",
+        "email":"string",
+        "phone_no":"string",
+        "status":"number",
+        "password":"string",
+        "period":[{
+            "date_":"date",
+            "time_in":[{
+                "time_in":"time",
+                "time_out":"time"
+                }]
+        }]
+}

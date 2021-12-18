@@ -1,8 +1,9 @@
 {
     "tram_id": "number",
-    "driver": "text",
+    "service_provider_id":"number",
     "line": "number",
     "status":"number",
+    "next_station":"number",
     "position":{
         "latitude":"number",
         "longitude":"number"
